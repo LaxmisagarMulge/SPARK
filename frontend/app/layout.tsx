@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "SPARK | OSS Navigator",
+  title: "SPARK",
   description: "Understand a repository. Find your way in.",
 };
 

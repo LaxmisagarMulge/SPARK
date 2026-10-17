@@ -230,7 +230,7 @@ export default function HomePage() {
               <span className="material-symbols-outlined text-primary-container font-bold text-2xl">radar</span>
             </div>
             <a href="#" className="font-headline-sm text-headline-sm text-on-surface uppercase tracking-tight font-bold hover:text-black">
-              OSS NAVIGATOR
+              SPARK
             </a>
           </div>
 
@@ -1155,7 +1155,7 @@ export default function HomePage() {
                   <span className="material-symbols-outlined text-black font-bold">radar</span>
                 </div>
                 <span className="font-headline-sm text-headline-sm uppercase text-primary-container font-bold">
-                  OSS NAVIGATOR
+                  SPARK
                 </span>
               </div>
               <p className="font-body-sm text-body-sm text-secondary-fixed-dim leading-relaxed">
@@ -1219,7 +1219,7 @@ export default function HomePage() {
             </div>
           </div>
           <div className="pt-space-lg flex flex-col sm:flex-row items-center justify-between gap-space-sm font-label-sm text-label-sm text-secondary-fixed-dim">
-            <div>© 2026 OSS NAVIGATOR. BUILT FOR OPEN SOURCE CONTRIBUTORS.</div>
+            <div>© 2026 SPARK. BUILT FOR OPEN SOURCE CONTRIBUTORS.</div>
             <div className="flex items-center gap-space-md uppercase">
               <span>APACHE 2.0 / MIT</span>
               <span>LIVE TELEMETRY</span>
